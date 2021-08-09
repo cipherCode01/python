@@ -4,7 +4,7 @@ So basic to our program:
 ```python
 print("Hello world")
 ```
-[Go to Real Cool Heading section](The-"print"-function)
+[Go to Real Cool Heading section](https://github.com/cipherCode01/python/blob/main/The%20Basics/Ch2-Basics-%20part%201.md#the-print-function)
 # Comments
 
 First part is comments.
