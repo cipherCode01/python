@@ -4,7 +4,7 @@ So basic to our program:
 ```python
 print("Hello world")
 ```
-
+[Go to Real Cool Heading section](The-"print"-function)
 # Comments
 
 First part is comments.
